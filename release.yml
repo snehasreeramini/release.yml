@@ -1,4 +1,4 @@
-Name: release Process automation
+Name: release Process automation test
 
 on:
   pull_request:
